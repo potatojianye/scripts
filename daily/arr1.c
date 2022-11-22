@@ -1,4 +1,5 @@
 #include <stdio.h>
+//数组输出
 int main()
 {
 	int arr[]={3,2,6,78,9,7,5};
